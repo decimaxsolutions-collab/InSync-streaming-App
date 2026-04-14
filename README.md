@@ -6,12 +6,14 @@ Intelligent Hub-and-Spoke Routing: At its core, the platform utilizes a centrali
 Cross-Protocol Synchronization: Unlike traditional streaming apps, our proprietary synchronization engine allows for the simultaneous management of web-based streams and local Bluetooth playback, creating a unified listening experience across disparate networks.
 Scalable Network Topography: The architecture is built for extensibility, allowing users to rapidly add, remove, or re-route spokes within the network without interrupting the primary broadcast, making it ideal for both premium residential setups and large-scale commercial venues.
 
+
+
+
 ===========================================================================
 NETWORK ARCHITECTURE: MULTIFACETED MEDIA STREAMING ECOSYSTEM
 Topology: Hub-and-Spoke (Centralized Intelligence)
 ===========================================================================
-
-       [ WEB-BASED SOURCE / CLOUD ASSETS ]
+ [ WEB-BASED SOURCE / CLOUD ASSETS ]
 
                        |
                        v
@@ -45,6 +47,13 @@ Topology: Hub-and-Spoke (Centralized Intelligence)
 +----------+      +----------+     +----------+      +------------+
   (Utility)         (Utility)        (Utility)          (SINK)
 
+
+
+
+  
+
+
+
 ===========================================================================
 LEGEND & DATA FLOW
 ===========================================================================
@@ -65,6 +74,14 @@ LEGEND & DATA FLOW
 
 [ FLOW ] : HUB ----> PERSONAL DEVICE (Bridge) ----> BLUETOOTH DEVICE
 ===========================================================================
+
+
+
+
+
+
+
+
 
 ===========================================================================
 NETWORK ARCHITECTURE: MULTIFACETED MEDIA STREAMING ECOSYSTEM
@@ -105,6 +122,15 @@ Topology: Hub-and-Spoke (Centralized Intelligence)
 +----------+      +----------+     +----------+      +------------+
   (Utility)         (Utility)        (Utility)          (SINK)
 
+
+
+
+
+
+
+
+
+
 ===========================================================================
 LEGEND & DATA FLOW
 ===========================================================================
@@ -125,6 +151,12 @@ LEGEND & DATA FLOW
 
 [ FLOW ] : HUB ----> PERSONAL DEVICE (Bridge) ----> BLUETOOTH DEVICE
 ===========================================================================
+
+
+
+
+
+
 
 ===========================================================================
 APPLICATION ARCHITECTURE: MASTER SPOKE AS THE INTELLIGENT HUB
@@ -165,6 +197,11 @@ Model: Application-Centric Localized Transmission
      | [A2DP / HFP]     | [A2DP]         | [TCP/UDP]        | [HTTP/WS]
      v                  v                v                  v
  (Audio Sink)       (Audio Sink)     (Media Spoke)      (Remote UI)
+
+
+
+
+
 
 ===========================================================================
 KEY ROLES OF THE APPLICATION BASE
