@@ -1,4 +1,4 @@
-Application Overview: INSYNC 
+Application Overview: 
 INSYNC is a next-generation media streaming ecosystem designed to redefine how high-fidelity audio is distributed across complex environments. By leveraging a sophisticated hub-and-spoke network architecture, the platform transforms a central transmitting node/ Master-spoke into a powerful command center, capable of synchronizing media across a diverse, multi-faceted network of hardware.
 Key Technical Architecture
 Hybrid Connectivity Engine: The application seamlessly integrates Bluetooth LE (Low Energy) and Web-based (TCP/IP) protocols to ensure stable, low-latency streaming. This dual-layer approach allows the system to bridge the gap between local hardware peripherals and cloud-based assets.
