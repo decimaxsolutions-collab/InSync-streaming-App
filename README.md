@@ -9,10 +9,10 @@ Scalable Network Topography: The architecture is built for extensibility, allowi
 
 
 
-===========================================================================
+
 NETWORK ARCHITECTURE: MULTIFACETED MEDIA STREAMING ECOSYSTEM
 Topology: Hub-and-Spoke (Centralized Intelligence)
-===========================================================================
+
  [ WEB-BASED SOURCE / CLOUD ASSETS ]
 
                        |
@@ -54,9 +54,9 @@ Topology: Hub-and-Spoke (Centralized Intelligence)
 
 
 
-===========================================================================
+
 LEGEND & DATA FLOW
-===========================================================================
+
 
 [ HUB ] : Central Transmitting Node
           - Manages packet synchronization.
@@ -73,7 +73,6 @@ LEGEND & DATA FLOW
           - Direct interaction with the user's physical environment.
 
 [ FLOW ] : HUB ----> PERSONAL DEVICE (Bridge) ----> BLUETOOTH DEVICE
-===========================================================================
 
 
 
@@ -83,10 +82,11 @@ LEGEND & DATA FLOW
 
 
 
-===========================================================================
+
+
 NETWORK ARCHITECTURE: MULTIFACETED MEDIA STREAMING ECOSYSTEM
 Topology: Hub-and-Spoke (Centralized Intelligence)
-===========================================================================
+
 
        [ WEB-BASED SOURCE / CLOUD ASSETS ]
 
@@ -131,9 +131,8 @@ Topology: Hub-and-Spoke (Centralized Intelligence)
 
 
 
-===========================================================================
 LEGEND & DATA FLOW
-===========================================================================
+
 
 [ HUB ] : Central Transmitting Node
           - Manages packet synchronization.
@@ -150,7 +149,6 @@ LEGEND & DATA FLOW
           - Direct interaction with the user's physical environment.
 
 [ FLOW ] : HUB ----> PERSONAL DEVICE (Bridge) ----> BLUETOOTH DEVICE
-===========================================================================
 
 
 
@@ -158,10 +156,11 @@ LEGEND & DATA FLOW
 
 
 
-===========================================================================
+
+
 APPLICATION ARCHITECTURE: MASTER SPOKE AS THE INTELLIGENT HUB
 Model: Application-Centric Localized Transmission
-===========================================================================
+
 
           [ GLOBAL MEDIA CLOUD / CMS ]
 
@@ -203,9 +202,9 @@ Model: Application-Centric Localized Transmission
 
 
 
-===========================================================================
+
 KEY ROLES OF THE APPLICATION BASE
-===========================================================================
+
 
 [ TRANSMITTING NODE ] : The Master Spoke Application
                         - Serves as the localized authority.
@@ -226,7 +225,7 @@ KEY ROLES OF THE APPLICATION BASE
   WEB SOURCE ---> [ MASTER APP ENGINE ] ---> PROTOCOL TRANSLATION 
                                         ---> BT BROADCAST (Utility)
                                         ---> WEB STREAM (Remote)
-===========================================================================
+
 
 
 
